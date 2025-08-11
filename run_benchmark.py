@@ -1,5 +1,5 @@
 # run_benchmark.py
-
+from src.parsing_utils import parse_ollama_cli_output
 import subprocess
 import yaml
 import csv
