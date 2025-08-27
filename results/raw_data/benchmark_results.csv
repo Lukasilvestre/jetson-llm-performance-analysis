@@ -1,0 +1,6 @@
+timestamp,model,power_mode,swap_enabled,status,error_message,total_duration_s,load_duration_s,prompt_eval_count,prompt_eval_duration_s,prompt_eval_rate_tps,eval_count,eval_duration_s,eval_rate_tps
+2025-08-27T16:12:25.032046,llama3:8b,15W,Ativado,success,,175.680980488,12.967428064,,3.731717978,4.82,,3.731717978,4.82
+2025-08-27T16:12:36.478631,llama3.2:latest,15W,Ativado,success,,11.030357887,6.738624195,,36019.2906,54.97,,36019.2906,54.97
+2025-08-27T16:13:22.509724,deepseek-r1:1.5b,15W,Ativado,success,,45.789042137,8.743003573,,22206.04644,29.72,,22206.04644,29.72
+2025-08-27T16:19:41.924783,deepseek-r1:8b,15W,Ativado,success,,378.947793142,17.279685254,,3.060196156,3.27,,3.060196156,3.27
+2025-08-27T16:22:55.836962,gemma3:4b,15W,Ativado,success,,192.966816224,6.651063989,,34318.0479,29.72,,34318.0479,29.72

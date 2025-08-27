@@ -2,18 +2,16 @@
 prompt: "como fazer swap na jetson orin"
 
 models_to_test:
-  - deepseek-llm:7b
-  - tinyllama
-  - llama3:8b
-  - gemma3:9b
-  - gemma:2b
+  - llama3:8b 
+  - llama3.2:latest
+  - deepseek-r1:1.5b 
+  - deepseek-r1:8b
+  - gemma3:4b
 
 swap_configurations:
   - "Ativado"
-  - "Desativado"
 
 power_modes:
-  - "7W"
   - "15W"
 
 output_csv_file: "results/raw_data/benchmark_results.csv"
